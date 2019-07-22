@@ -1,0 +1,14 @@
+diff a/content/client_testimonials.md b/content/client_testimonials.md	(rejected hunks)
+@@ -1,11 +1,9 @@
+ +++
+-comments = false
+ date = "2015-04-14T22:17:00+00:00"
+ draft = false
+-noauthor = true
+-share = false
+ title = "Testimonials"
+ type = "page"
++layout = "cover"
+ +++
+ Client Review, Juvenile Justice Case: 
+      "I was a juvenile entangled in the criminal justice system when I first met Mr. Bondy. I was neither in school nor sure about my future. Mr. Bondy inspired me to pursue an education, despite any perceived hurdles. His guidance and assistance were a critical aspect to my development as a responsible and accountable person. I have the utmost respect for Mr. Bondy. He is a great person, mentor, and friend." 

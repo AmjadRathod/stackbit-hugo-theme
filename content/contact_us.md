@@ -4,6 +4,7 @@ date = "2015-05-27T23:31:14+02:00"
 draft = false
 image ="/images/c1.jpg"
 share = false
+tags = []
 title = "Contact Us"
 type = "page"
 weight = "120"

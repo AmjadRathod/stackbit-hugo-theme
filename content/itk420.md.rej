@@ -1,0 +1,9 @@
+diff a/content/itk420.md b/content/itk420.md	(rejected hunks)
+@@ -2,7 +2,6 @@
+ date = "2006-08-30T03:45:00+02:00"
+ draft = false
+ layout = "cover"
+-title = "Testimonials"
+ title = "ITK420"
+ type = "page"
+ 
