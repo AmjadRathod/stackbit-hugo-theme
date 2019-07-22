@@ -28,7 +28,6 @@
         <div class="main-header-content inner">
             {{ partial "social.html" . }}
             <h1 class="page-title">{{ .Site.Title }}</h1>
-            <h2 class="page-description">{{ .Site.Params.description }}</h2>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
@@ -36,8 +35,11 @@
 
 
 <main id="content" class="content" role="main">
+<p class="inner">{{ .Site.Params.description }}</p>
+<hr class="inner">
 
 {{ partial "home-content.html" . }}
+
 
 </main>
 
