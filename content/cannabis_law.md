@@ -1,10 +1,8 @@
 +++
 date = "2006-08-30T03:45:00+02:00"
-draft = false
 layout = "cover"
-title = "Practice Areas"
+title = "Criminal Defense"
 type = "page"
-
 
 +++
 Below are just a few of the results of Mr. Bondy’s dedicated advocacy: 

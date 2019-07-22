@@ -1,8 +1,7 @@
 +++
 date = "2006-08-30T03:45:00+02:01"
-draft = false
 layout = "cover"
-title = "Practice Areas"
+title = "Cannabis Law"
 type = "page"
 
 +++
