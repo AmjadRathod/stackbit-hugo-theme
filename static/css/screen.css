@@ -1682,12 +1682,8 @@ body:not(.post-template) .post-title {
         margin-bottom: 2rem;
     }
 
-    .blog-logo {
-        padding: 5px;
-    }
-
     .blog-logo img {
-        height: 30px;
+        height: 60px;
     }
 
     .menu-button {
@@ -2149,6 +2145,7 @@ body:not(.post-template) .post-title {
     
     .legal-img {
       float: none;
+      height: 180px;
     }
 }
 
