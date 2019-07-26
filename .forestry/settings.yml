@@ -4,10 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: data/*
+- type: directory
+  path: data
   label: Data
-  match: "**/*"
+  create: documents
+  match: "*"
+  new_doc_ext: ".yml"
+  templates:
+  - data-files
 - type: directory
   path: content
   label: Pages
