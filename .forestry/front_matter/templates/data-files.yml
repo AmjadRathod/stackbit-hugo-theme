@@ -19,3 +19,5 @@ fields:
     maxSize: 250
   label: Profile Image
   description: Profile image goes here
+pages:
+- data/*/test.yml
