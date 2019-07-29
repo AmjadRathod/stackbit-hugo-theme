@@ -13,7 +13,7 @@ fields:
   label: Bio
   description: Profile bio data goes here
   hidden: false
-- name: profileimg
+- name: profile_img
   type: file
   config:
     maxSize: 250
